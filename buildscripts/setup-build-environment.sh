@@ -30,3 +30,4 @@ else
   echo "[BCOS-build] Open a terminal, navigate to this directory."
   echo "[BCOS-build] Run mini-rebuild.sh then build.sh."
 
+  fi

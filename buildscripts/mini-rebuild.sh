@@ -33,9 +33,9 @@ echo "BCOS-rebuild: Building output ISO..."
 customizer -r
 
 echo "BCOS-rebuild: Finalizing output ISO..."
-if [ ! -f `echo $parentdir/work/Ubuntu-amd64-18.04.iso` ]; 
+if [ -f ../work/Ubuntu-amd64-18.04.iso ]; 
   then echo "[BCOS-build] Copying ISO to BCOS directory.";
-  cp `echo $parentdir/work/Ubuntu-amd64-18.04.iso` ../bcos-amd64-18.04.iso;
+  cp ../work/Ubuntu-amd64-18.04.iso ../bcos-amd64-18.04.iso;
 fi
 
 echo "BCOS-rebuild: Complete."
