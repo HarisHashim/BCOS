@@ -8,7 +8,9 @@ Prerequisite
 
 Install Customizer by checking out the code from https://github.com/kamilion/customizer.
 
-*IMPORTANT* follow this guide to install Customizer. The only way tat works! https://github.com/kamilion/customizer/wiki/First-guide
+*IMPORTANT* follow bellow guide to install Customizer. The only way that works! 
+
+https://github.com/kamilion/customizer/wiki/First-guide
 
 How to Build BCOS
 ------------------
